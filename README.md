@@ -1,3 +1,5 @@
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=erietz&theme=gruvbox)
+
 # Hi there 👋, I'm Ethan
 
 - 🔭 I’m currently working on finishing my CS degree.
@@ -7,8 +9,6 @@
 - 📫 How to reach me:
     - Email: `ewrietz <at> gmail.com`
     - Discord: `baeyta#4573`
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=erietz&theme=gruvbox)
 
 
 <!--
