@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=erietz&theme=gruvbox"/>
+</div>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ethan-rietz-498070143/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -8,10 +12,6 @@
   <a href="mailto:ewrietz@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erietz&theme=gruvbox"/>
 </div>
 
 # Hi there 👋, I'm Ethan
