@@ -1,5 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Ethan</h1>
-
+# Hi there 👋, I'm Ethan
 
 - 🔭 I’m currently working on finishing my CS degree.
 - 🌱 I’m currently learning the Go programming language
