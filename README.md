@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erietz&theme=gruvbox"/>
-</div>
+<!-- <div align="center"> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=erietz&theme=gruvbox"/> -->
+<!-- </div> -->
 
 # Hi there 👋, I'm Ethan
 
