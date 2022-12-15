@@ -4,7 +4,7 @@
 
 # Hi there 👋, I'm Ethan
 
-- 🔭 I’m currently working on finding a job
+- 🔭 I’m currently working on learning go
 - 📫 How to reach me:
     - Email: `ewrietz <at> gmail.com`
     - Discord: `baeyta#4573`
